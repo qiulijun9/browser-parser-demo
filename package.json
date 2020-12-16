@@ -1,0 +1,21 @@
+{
+  "name": "browser-parser-demo",
+  "version": "1.0.0",
+  "description": "browser parser demo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "css": "^3.0.0",
+    "images": "^3.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.hellorf.work:qiulijun/browser-parser-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
